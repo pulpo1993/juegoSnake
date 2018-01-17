@@ -16,6 +16,7 @@ public class Juego {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    VentanaJuego vj = new VentanaJuego("Snake", 670, 670);
     }
     
 }
